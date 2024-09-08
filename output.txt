@@ -1,0 +1,200 @@
+Car registration number: null
+Availability: null
+Brand: null
+Model: null
+Color: null
+Mileage: 0
+Year of Produce: 0
+User Name: null null
+User Number: null
+
+Car registration number: C2
+Availability: Yes
+Brand: Nissan
+Model: Nissan01
+Color: black
+Mileage: 12000
+Year of Produce: 2010
+User Name: null null
+User Number: null
+
+Car registration number: C3
+Availability: Yes
+Brand: Audi
+Model: Toyota01
+Color: white
+Mileage: 8900
+Year of Produce: 2000
+User Name: null null
+User Number: null
+
+Car registration number: C4
+Availability: Yes
+Brand: Audi
+Model: Audi01
+Color: yellow
+Mileage: 8900
+Year of Produce: 1993
+User Name: null null
+User Number: null
+
+Car registration number: C5
+Availability: No
+Brand: Ferrari
+Model: Ferrari01
+Color: silver
+Mileage: 8222
+Year of Produce: 1998
+User Name: Tina Zhao
+User Number: 0403827463
+
+Car registration number: C6
+Availability: Yes
+Brand: Mazda
+Model: Mazda01
+Color: blue
+Mileage: 30044
+Year of Produce: 2013
+User Name: null null
+User Number: null
+
+Car registration number: C7
+Availability: Yes
+Brand: Ford
+Model: Ford01
+Color: green
+Mileage: 8000
+Year of Produce: 2011
+User Name: null null
+User Number: null
+
+Car registration number: C8
+Availability: Yes
+Brand: Volvo
+Model: Volvo01
+Color: red
+Mileage: 90035
+Year of Produce: 1997
+User Name: null null
+User Number: null
+
+Car registration number: C9
+Availability: Yes
+Brand: Peugeot
+Model: Peugeot01
+Color: grey
+Mileage: 130229
+Year of Produce: 1999
+User Name: null null
+User Number: null
+
+Car registration number: C10
+Availability: No
+Brand: Subaru
+Model: Subaru01
+Color: white
+Mileage: 74873
+Year of Produce: 2001
+User Name: Ada Wu
+User Number: 0403087652
+
+Car registration number: C1
+Availability: Yes
+Brand: Benz
+Model: Benz01
+Color: black
+Mileage: 4800
+Year of Produce: 2014
+User Name: null null
+User Number: null
+
+Car registration number: C2
+Availability: Yes
+Brand: Nissan
+Model: Nissan01
+Color: black
+Mileage: 12000
+Year of Produce: 2010
+User Name: null null
+User Number: null
+
+Car registration number: C3
+Availability: Yes
+Brand: Toyota
+Model: Toyota01
+Color: white
+Mileage: 8900
+Year of Produce: 2000
+User Name: null null
+User Number: null
+
+Car registration number: C4
+Availability: Yes
+Brand: Audi
+Model: Audi01
+Color: yellow
+Mileage: 8900
+Year of Produce: 1993
+User Name: null null
+User Number: null
+
+Car registration number: C5
+Availability: No
+Brand: Ferrari
+Model: Ferrari01
+Color: silver
+Mileage: 8222
+Year of Produce: 1998
+User Name: Tina Zhao
+User Number: 0403827463
+
+Car registration number: C6
+Availability: Yes
+Brand: Mazda
+Model: Mazda01
+Color: blue
+Mileage: 30044
+Year of Produce: 2013
+User Name: null null
+User Number: null
+
+Car registration number: C7
+Availability: Yes
+Brand: Ford
+Model: Ford01
+Color: green
+Mileage: 8000
+Year of Produce: 2011
+User Name: null null
+User Number: null
+
+Car registration number: C8
+Availability: Yes
+Brand: Volvo
+Model: Volvo01
+Color: red
+Mileage: 90035
+Year of Produce: 1997
+User Name: null null
+User Number: null
+
+Car registration number: C9
+Availability: Yes
+Brand: Peugeot
+Model: Peugeot01
+Color: grey
+Mileage: 130229
+Year of Produce: 1999
+User Name: null null
+User Number: null
+
+Car registration number: C10
+Availability: No
+Brand: Subaru
+Model: Subaru01
+Color: white
+Mileage: 74873
+Year of Produce: 2001
+User Name: Ada Wu
+User Number: 0403087652
+

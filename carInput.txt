@@ -1,0 +1,10 @@
+C1 Yes Benz Benz01 black 4800 2014 null null null
+C2 Yes Nissan Nissan01 black 12000 2010 null null null
+C3 Yes Toyota Toyota01 white 8900 2000 null null null
+C4 Yes Audi Audi01 yellow 8900 1993 null null null
+C5 No Ferrari Ferrari01 silver 8222 1998 Tina Zhao 0403827463
+C6 Yes Mazda Mazda01 blue 30044 2013 null null null
+C7 Yes Ford Ford01 green 8000 2011 null null null
+C8 Yes Volvo Volvo01 red 90035 1997 null null null
+C9 Yes Peugeot Peugeot01 grey 130229 1999 null null null
+C10 No Subaru Subaru01 white 74873 2001 Ada Wu 0403087652
